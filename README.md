@@ -80,6 +80,9 @@
 </p>
 </td>
 
+<td valign="center"  width="40%">
+  <img src="chiikawa2.gif" width="500" height="400">
+</td>
 </tr>
 
 
