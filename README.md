@@ -12,6 +12,7 @@
 - 🤖 [点这里访问我的itch主页](https://demonwhite.itch.io/)
 - 📫 联系我: [邮箱联系](mailto:NKUyhr@163.com)
 - 🎣 兴趣：游戏，绘画，创作
+- 📺 [我的BiliBili主页](https://space.bilibili.com/454833986?spm_id_from=333.1007.0.0)
 
 </td>
 <td valign="center" width="100%" height="100%">
