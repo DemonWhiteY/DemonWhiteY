@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="center"  width="100%" hight="100%">
+<td valign="center"  width="60%" hight="100%">
   :computer: Programming languages and tools :computer:
 
 <br />
