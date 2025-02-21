@@ -42,11 +42,16 @@
 </td>
 <td valign="center"  width="50%">
 
+
+
 📕 &nbsp;[**我的最新博客**](https://www.demonwhite.xyz/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
+
 </td>
 </tr>
 </table>
+
+<img src="chiikawa.jpg" width="1400" height="600">
