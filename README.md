@@ -11,8 +11,8 @@
 - ✍️ [欢迎参观我的博客](https://www.demonwhite.xyz/)
 - 🤖 [点这里访问我的itch主页](https://demonwhite.itch.io/)
 - 📫 联系我: [邮箱联系](mailto:NKUyhr@163.com)
-- 🎣 兴趣：
-**「天天开心」** ❤️
+- 🎣 兴趣：游戏，绘画，创作
+
 </td>
 <td valign="center" width="100%" height="100%">
 <img src="star.jpg" width="700" height="350">
