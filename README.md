@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m Rento
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m DemonWhite
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎+来到+我的+Github+主页;很荣幸+能够+帮到你)
 
 
@@ -7,11 +7,10 @@
 <td valign="center"  width="30%">
 
 - 🤖 我最喜欢的游戏：星露谷物语
-- 👨‍💻 我了解Golang、Node.js、Java、React、Vue、Uni APP、React Native、Unity(C#)等等...
+- 👨‍💻 我了解C++、Unity(C#),计算机图形学，等等...
 - ✍️ [欢迎参观我的博客](https://www.demonwhite.xyz/)
 - 💬 保持思考
-- 📫 联系我: [邮箱联系](NKUyhr@163.com)
-- 👏 关注我: [![](https://img.shields.io/github/followers/rento666?label=关注我&style=social)](https://github.com/DemonWhiteY/)
+- 📫 联系我: [邮箱联系](mailto:NKUyhr@163.com)
 - 🎣 兴趣：
 **「天天开心」** ❤️
 </td>
