@@ -8,7 +8,7 @@
 
 - 🤖 我最喜欢的游戏：星露谷物语
 - 👨‍💻 我了解Golang、Node.js、Java、React、Vue、Uni APP、React Native、Unity(C#)等等...
-- ✍️ [欢迎参观我的博客](https://(https://www.demonwhite.xyz/)/)
+- ✍️ [欢迎参观我的博客](https://www.demonwhite.xyz/)
 - 💬 保持思考
 - 📫 联系我: [邮箱联系](NKUyhr@163.com)
 - 👏 关注我: [![](https://img.shields.io/github/followers/rento666?label=关注我&style=social)](https://github.com/DemonWhiteY/)
