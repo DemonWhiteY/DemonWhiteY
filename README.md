@@ -23,12 +23,44 @@
 
 <hr/>
 
+
+
 🏆 **我的 GitHub 统计信息:**
 
 |![](https://github-readme-stats.vercel.app/api?username=demonwhitey)|![我最常用的编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=demonwhitey&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
+<table>
+<tr>
+<td valign="center"  width="60%" hight="100%">
+  :computer: Programming languages and tools :computer:
 
+
+<p>
+<code><img width="25%"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg"></code>
+<br />
+<code><img width="25%"  src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="25%"  src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="25%"  src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="25%"  src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+<br />
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+</p>
+</td>
+
+<td valign="center"  width="40%">
+  <img src="chiikawa2.gif" width="300" height="250">
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td valign="center"  width="50%">
@@ -42,50 +74,16 @@
 
 </td>
 <td valign="center"  width="50%">
-
-
-
 📕 &nbsp;[**我的最新博客**](https://www.demonwhite.xyz/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
 </td>
 </tr>
 
 </table>
-<table>
-<tr>
-<td valign="center"  width="80%">
-  :computer: Programming languages and tools :computer:
 
-  <br />
-<p>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg"></code>
-<br />
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-</p>
-</td>
 
-<td valign="center"  width="40%">
-  <img src="chiikawa2.gif" width="300" height="250">
-</td>
-</tr>
-</table>
 
 
 <img src="chiikawa.jpg" width="1400" height="400">
