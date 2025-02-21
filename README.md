@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="center"  width="60%" hight="100%">
+<td valign="center"  width="100%" hight="100%">
   :computer: Programming languages and tools :computer:
 
 
@@ -74,7 +74,7 @@
 
 </td>
 <td valign="center"  width="50%">
-📕 &nbsp;[**我的最新博客**](https://www.demonwhite.xyz/)
+📕 [**我的最新博客**](https://www.demonwhite.xyz/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </td>
