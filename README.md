@@ -74,7 +74,7 @@
 
 </td>
 <td valign="center"  width="50%">
-📕 [**我的最新博客**](https://www.demonwhite.xyz/)
+📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </td>
