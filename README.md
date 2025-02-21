@@ -1,4 +1,4 @@
-### Hey <img src="star.jpg" width="25px">，I’m DemonWhite
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m DemonWhite
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎+来到+我的+Github+主页;很荣幸+能够+帮到你)
 
 
@@ -15,7 +15,7 @@
 **「天天开心」** ❤️
 </td>
 <td valign="center" width="100%" height="100%">
-<img src="https://github.com/user-attachments/assets/7e018694-352d-494a-9a22-89d7d21f52b6" width="703" height="300">
+<img src="star.jpg" width="500" height="300">
 </td>
 </tr>
 </table>
