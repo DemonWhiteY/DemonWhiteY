@@ -54,4 +54,4 @@
 </tr>
 </table>
 
-<img src="chiikawa.jpg" width="1400" height="400">
+<img src="chiikawa.jpg" width="1400" height="450">
