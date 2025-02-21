@@ -55,8 +55,9 @@
 </tr>
 
 </table>
+<table>
 <tr>
-<td valign="center"  width="60%">
+<td valign="center"  width="80%">
   :computer: Programming languages and tools :computer:
 
   <br />
@@ -81,9 +82,10 @@
 </td>
 
 <td valign="center"  width="40%">
-  <img src="chiikawa2.gif" width="500" height="400">
+  <img src="chiikawa2.gif" width="300" height="250">
 </td>
 </tr>
+</table>
 
 
 <img src="chiikawa.jpg" width="1400" height="400">
