@@ -15,7 +15,7 @@
 **「天天开心」** ❤️
 </td>
 <td valign="center" width="100%" height="100%">
-<img src="star.jpg" width="500" height="300">
+<img src="star.jpg" width="700" height="400">
 </td>
 </tr>
 </table>
