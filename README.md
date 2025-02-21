@@ -6,10 +6,10 @@
 <tr>
 <td valign="center"  width="30%">
 
-- 🤖 我最喜欢的游戏：星露谷物语
+- 💬 我最喜欢的游戏：星露谷物语
 - 👨‍💻 我了解C++、Unity(C#),计算机图形学，等等...
 - ✍️ [欢迎参观我的博客](https://www.demonwhite.xyz/)
-- 💬 保持思考
+- 🤖 [点这里访问我的itch主页] (https://demonwhite.itch.io/)
 - 📫 联系我: [邮箱联系](mailto:NKUyhr@163.com)
 - 🎣 兴趣：
 **「天天开心」** ❤️
