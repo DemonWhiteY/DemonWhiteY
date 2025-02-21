@@ -35,7 +35,7 @@
 <td valign="center"  width="100%" hight="100%">
   :computer: Programming languages and tools :computer:
 
-
+<br />
 <p>
 <code><img width="25%"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
