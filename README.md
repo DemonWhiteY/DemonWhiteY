@@ -15,7 +15,7 @@
 **「天天开心」** ❤️
 </td>
 <td valign="center" width="100%" height="100%">
-<img src="star.jpg" width="700" height="400">
+<img src="star.jpg" width="700" height="350">
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 </td>
 <td valign="center"  width="50%">
 
-📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
+📕 &nbsp;[**我的最新博客**](https://www.demonwhite.xyz/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
