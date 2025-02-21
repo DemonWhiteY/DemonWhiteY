@@ -53,9 +53,11 @@
 
 </td>
 </tr>
+
+</table>
 <tr>
-<td>
-  #### :computer: Programming languages and tools :computer:
+<td valign="center"  width="60%">
+  :computer: Programming languages and tools :computer:
 
   <br />
 <p>
@@ -79,6 +81,6 @@
 </td>
 
 </tr>
-</table>
+
 
 <img src="chiikawa.jpg" width="1400" height="400">
