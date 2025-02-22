@@ -63,7 +63,7 @@
 </table>
 <table>
 <tr>
-<td valign="center"  width="50%">
+<td valign="center"  width="90%">
 
 #### 🐍 贡献
 <picture>
@@ -72,11 +72,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rento666/rento666/output/github-contribution-grid-snake.svg">
 </picture>
 
-</td>
-<td valign="center"  width="50%">
-📕 &nbsp;[**我的最新博客**](https://www.demonwhite.xyz/)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 </td>
 </tr>
 
